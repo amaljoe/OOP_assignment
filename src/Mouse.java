@@ -13,6 +13,7 @@ public class Mouse extends Frame implements MouseMotionListener{
     Mouse(){
         setVisible(true);
         setSize(500, 500);
+        setTitle("Mouse Tracker");
         addMouseMotionListener(this);
         addWindowListener(new WindowAdapter() {
             public void windowClosing(WindowEvent e){
