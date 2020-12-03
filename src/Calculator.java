@@ -38,7 +38,7 @@ public class Calculator extends Frame implements ActionListener {
 
         expression = "";
 
-        display = new TextField("                      ");
+        display = new TextField("");
         number1 = new Button("1");
         number2 = new Button("2");
         number3 = new Button("3");
