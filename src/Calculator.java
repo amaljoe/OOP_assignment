@@ -1,6 +1,8 @@
-//  Write a Java program that works as a simple calculator using Frame. 
-// Arrange Buttons for digits and the + - * 
-// % operations properly and perform the calculations.
+/**
+ * Write a Java program that works as a simple calculator using Frame. 
+ * Arrange Buttons for digits and the + - * % operations properly and 
+ * perform the calculations.
+ */
 
 import java.awt.*;
 import java.awt.event.*;
